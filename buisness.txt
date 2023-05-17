@@ -1,0 +1,50 @@
+Buissness entities and Buisness operations:
+
+User:
+A user is a person who uses the online project management system. 
+Users can have different roles such as project manager, team member, or administrator.
+
+Project:
+A project is a temporary way to that is help to create a unique product, service, or result.
+In an online project management system, a project is typically created by a project manager and assigned to a team.
+
+project Team:
+A team is a group of individuals who work together to complete a project. 
+In an online project management system, team members can be assigned to specific tasks and can collaborate with each other through the system.
+by making project team time can be managed very effiently.
+
+
+Vendors: 
+Vendors are persons who will be able see connect users to prvioding goods or services to the project
+vendiors are person which having diverrwent skillsets tan which users does not having.
+
+
+stakeholders: 
+A stakeholder is any person or organization that has an interest in the project's outcome. 
+Stakeholders may include investors, interest in the project's success.
+
+
+Delivery managers:
+delivery managers are who handled all prodect related delivery management.
+
+
+Clent:Clients may have specific requirements and expectations for the project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
